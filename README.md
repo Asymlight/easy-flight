@@ -9,8 +9,8 @@ Gameplay:
 ## Downloads
 
 - [Trailer](https://www.youtube.com/watch?v=5-35oaSltmk)
-- [Release on itch.io](https://playcode.itch.io/easy-flight)
-- [Смотрите подробное видео на моём youtube канале @PlayCode1](https://www.youtube.com/@PlayCode1)
+- [Release on itch.io](https://asymlight.itch.io/easy-flight)
+- [Смотрите подробное видео на моём youtube канале](https://www.youtube.com/@asymlight)
 
 ## Installation
 
